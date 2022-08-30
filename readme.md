@@ -5,7 +5,7 @@ JupyterLab interactive notebooks based upon Jose Portilla's course:
 
 This course is quite outdated as there have been numerous developments in plotly such as plotly express which is not covered in this course. 
 
-That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and it is still sueful to understand the fundamentals and syntax of plotly graph objects.
+That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and it is still useful to understand the fundamentals and syntax of plotly graph objects.
 
 11. [Scatter Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect11_scatter_plots.ipynb)
 12. [Line Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect12_line_charts.ipynb)
