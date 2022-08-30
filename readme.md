@@ -10,7 +10,7 @@ That being said, Joses explanation of the plotly syntax, covers the fundamentals
 11. [Scatter Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect11_scatter_plots.ipynb)
 12. [Line Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect12_line_charts.ipynb)
 13. [Line Charts 2](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect13_line_charts_2.ipynb)
-14. Check [Line Charts Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect14_line_charts_exercise.ipynb)
+14. [Line Charts Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect14_line_charts_exercise.ipynb)
 16. [Bar Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect16_bar_charts.ipynb)
 17. [Bar Charts Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect17_bar_charts_exercise.ipynb)
 18. Check [Bubble Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect18_bubble_plots.ipynb)
