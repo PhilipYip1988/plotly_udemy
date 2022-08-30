@@ -7,7 +7,7 @@ This course is quite outdated as there have been numerous developments in plotly
 
 That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and it is still sueful to understand the fundamentals and syntax of plotly graph objects.
 
-11. ![Scatter Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect11_scatter_plots.ipynb)
+11. [Scatter Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect11_scatter_plots.ipynb)
 12. Line Charts
 13. Line Charts 2
 14. Line Charts Exercise Solutions
