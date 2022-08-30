@@ -16,7 +16,7 @@ That being said, Joses explanation of the plotly syntax, covers the fundamentals
 18. Check [Bubble Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect18_bubble_plots.ipynb)
 20. Check [Bubble Plots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect20_bubble_plots_exercise.ipynb)
 22. Check [Box Plots](https://github.com/PhilipYip1988/plotly_udemy/blob/main/lect22_box_plots.ipynb)
-23. [box Plots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect23_box_plots_exercise.ipynb)
+23. [Box Plots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect23_box_plots_exercise.ipynb)
 25. [Histograms](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect25_histograms.ipynb)
 26. Check [Histograms Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect26_histograms_exercise.ipynb)
 28. [Distplots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect28_distplots.ipynb)
