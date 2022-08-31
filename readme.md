@@ -1,4 +1,4 @@
-# Interactive Python Dashboards with plotly and Dash
+# Interactive Python Dashboards with plotly and dash
 
 This is a collection of JupyterLab notebooks based upon Jose Portilla's course:
 [Interactive Python Dashboards with plotly and dash](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/).
@@ -65,9 +65,9 @@ These links display the notebooks on notebook viewer:
 
 These notebooks give a 404 error when displayed on Notebook Viewer as the Notebook Viewer is not able to view the dash server. Instead they should be opened in JupyterLab:
 
-* dash layouts 1a
-* dash layouts 1b
-* dash layouts 2
-* converting simple plotly to dash
-* create a simple dashboard exercise
-* html components
+* dash Layouts 1a
+* dash Layouts 1b
+* dash Layouts 2
+* Converting Simple plotly to dash
+* Create a Simple Dashboard Exercise
+* html Components
