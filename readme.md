@@ -1,3 +1,36 @@
+# Setting up a conda env
+
+This folder can be downloaded as a zip file. The extracted contents can be opened and launched in JupyterLab.
+You will need a compatible conda environment.
+
+Install Miniconda or Anaconda.
+
+Launch the Anaconda Powershell Prompt (Windows) or the Terminal (Linux).
+
+Create a new conda environment using:
+
+```
+conda create -n jupyterlab-cf
+conda activate jupyterlab-cf
+```
+
+Install the following libraries using:
+
+```
+conda install -c conda-forge jupyterlab
+conda install -c conda-forge cython seaborn scikit-learn sympy openpyxl xlrd xlsxwriter lxml sqlalchemy
+conda install -c conda-forge nodejs ipywidgets 
+conda install -c conda-forge plotly dash jupyter-dash
+conda install -c conda-forge jupyterlab-variableinspector ipympl jupyterlab-drawio
+```
+
+Launch JupyterLab from the Anaconda PowerShell Prompt or Windows Terminal using:
+
+```
+conda activate jupyterlab-cf
+jupyter-lab
+```
+
 # Section 3 Plotly Graph Objects
 
 JupyterLab interactive notebooks based upon Jose Portilla's course:
