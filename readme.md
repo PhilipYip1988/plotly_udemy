@@ -63,7 +63,7 @@ These links display the notebooks on notebook viewer:
 
 # Section 4 Dash
 
-These notebooks give a 404 error when displayed on Notebook Viewer. Instead they should be opened in JupyterLab:
+These notebooks give a 404 error when displayed on Notebook Viewer as the Notebook Viewer is not able to view the dash server. Instead they should be opened in JupyterLab:
 
 * dash layouts 1a
 * dash layouts 1b
