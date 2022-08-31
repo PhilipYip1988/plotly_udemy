@@ -40,7 +40,7 @@ conda activate jupyterlab-cf
 jupyter-lab
 ```
 
-# Section 3 Plotly Graph Objects
+# Plotly Graph Objects
 
 These links display the notebooks on notebook viewer:
 
@@ -61,15 +61,13 @@ These links display the notebooks on notebook viewer:
 * [Heatmaps](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect31_heatmaps.ipynb)
 * [Heatmaps Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect32_heatmaps_exercise.ipynb)
 
-# Section 4 Dash
+# Dash
 
 These notebooks give a 404 error when displayed on Notebook Viewer as the Notebook Viewer is not able to view the dash server. Instead they should be opened in JupyterLab:
 
 * dash layouts 1a
 * dash layouts 1b
 * dash layouts 2
-* converting simple plotly to dash 1a
-* converting simple plotly to dash 1b
-* converting simple plotly to dash 1c
+* converting simple plotly to dash
 * create a simple dashboard exercise
 * html components
