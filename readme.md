@@ -1,11 +1,16 @@
 # Interactive Python Dashboards with plotly and dash
 
-This is a collection of JupyterLab notebooks based upon Jose Portilla's course:
-[Interactive Python Dashboards with plotly and dash](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/).
+Jose Portilla's Udemy course:
+[Interactive Python Dashboards with plotly and dash Udemy](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/).
 
-This course is quite outdated as there have been numerous developments in plotly such as plotly express which is sadly not covered in this course. 
+Jose Portilla's GitHub files:
+[Interactive plotly dashboards with dash GitHub](https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash)
 
-That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and it is still useful to understand the fundamentals and syntax of plotly graph objects.
+The course and original files were made in 2018 and are quite outdated as there have been numerous developments in plotly such as plotly express which is sadly not covered in this course. 
+
+That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understand the fundamentals and syntax of plotly graph objects.
+
+These are my notes when working through the course, four years later in 2022.
 
 # Setting up a conda env
 
