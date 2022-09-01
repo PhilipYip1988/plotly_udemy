@@ -47,7 +47,7 @@ jupyter-lab
 
 # Plotly Graph Objects
 
-These links display the notebooks on notebook viewer:
+These links display the notebooks on notebook viewer. The [Notebook Viewer](https://nbviewer.org/) has wider compatability than GitHub natively when it comes to viewing commonly used objects in JupyterLab such as plotly graph objects:
 
 * [Scatter Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect11_scatter_plots.ipynb)
 * [Line Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect12_line_charts.ipynb)
