@@ -71,3 +71,6 @@ These notebooks give a 404 error when displayed on Notebook Viewer as the Notebo
 * Converting Simple plotly to dash
 * Create a Simple Dashboard Exercise
 * html Components
+* core Components
+* Using help
+* Single Callbacks for Interactivity
