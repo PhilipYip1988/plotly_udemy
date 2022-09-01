@@ -10,7 +10,7 @@ The course and original files were made in 2018 and are quite outdated as there 
 
 That being said, Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understand the fundamentals and syntax of plotly graph objects.
 
-These are my notes when working through the course, four years later in 2022.
+These are my notes as JupyterLab notebooks when working through the course, four years later in 2022.
 
 # Setting up a conda env
 
