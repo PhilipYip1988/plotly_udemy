@@ -63,7 +63,9 @@ jupyter-lab
 
 # Plotly Graph Objects
 
-These links display the notebooks on notebook viewer. The [Notebook Viewer](https://github.com/PhilipYip1988/plotly_udemy/blob/main/readme.md) has wider compatibility than GitHub natively when it comes to viewing commonly used objects in JupyterLab such as plotly graph objects:
+The plotly graphs for these notebooks will not render on GitHub however will render in nbviewer[https://nbviewer.org/].
+
+For best results these notebooks should be opened and run in JupyterLab:
 
 * [Scatter Plots](./lect11_scatter_plots.ipynb)
 * [Line Charts](./lect12_line_charts.ipynb)
@@ -84,7 +86,7 @@ These links display the notebooks on notebook viewer. The [Notebook Viewer](http
 
 # Dash
 
-These notebooks give a 404 error when displayed on Notebook Viewer as the Notebook Viewer is not able to view the dash server. Instead they should be opened in JupyterLab:
+These notebooks should be opened and run in JupyterLab:
 
 * [dash Layouts 1a](./lect35_dash_layouts_1a.ipynb)
 * [dash Layouts 1b](./lect35_dash_layouts_1b.ipynb)
