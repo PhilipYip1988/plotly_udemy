@@ -12,10 +12,26 @@ That being said, Joses explanation of the plotly syntax, covers the fundamentals
 
 These are my notes as JupyterLab notebooks when working through the course, four years later in 2022.
 
+# Perquisites
+
+Before beginning this course, ensure you are comfortable with the Python programming language especially concepts such as for loops, list comprehension and dictionary comprehension), as well as the data science libraries numpy and pandas. Jose has a very small intro section covering this in the plotly and dash course but a beginner will struggle without a deeper understanding.
+
+Jose has a begineer Python course and an intermediate datascience course which covers these libraries.
+
+Ensure you take the **updated 2022 course**:
+
+[Python Bootcamp 2022 Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
+
+[Python for Machine Learning Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
+
+And not the **outdated 2018 course**:
+
+[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+
 # Setting up a conda env
 
 This folder can be downloaded as a zip file. The extracted contents can be opened and launched in JupyterLab.
-You will need a compatible conda environment.
+You will however need a compatible conda environment.
 
 Install Miniconda or Anaconda.
 
