@@ -47,7 +47,7 @@ conda install -c conda-forge jupyterlab
 conda install -c conda-forge cython seaborn scikit-learn sympy openpyxl xlrd xlsxwriter lxml sqlalchemy
 conda install -c conda-forge nodejs ipywidgets 
 conda install -c conda-forge plotly dash jupyter-dash
-conda install -c conda-forge jupyterlab-variableinspector ipympl jupyterlab-drawio
+conda install -c conda-forge jupyterlab-variableinspector
 ```
 
 Launch JupyterLab from the Anaconda PowerShell Prompt or Windows Terminal using:
