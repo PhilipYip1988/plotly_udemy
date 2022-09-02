@@ -59,7 +59,7 @@ jupyter-lab
 
 # Plotly Graph Objects
 
-The plotly graphs for these notebooks will not render on GitHub however will render in nbviewer[https://nbviewer.org/].
+The plotly graphs for these notebooks will not render on GitHub however will render in [nbviewer](https://nbviewer.org/).
 
 For best results these notebooks should be opened and run in JupyterLab:
 
