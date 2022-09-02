@@ -99,3 +99,4 @@ These notebooks should be opened and run in JupyterLab:
 * [Single Callback for Interactivity](./lect45_single_callback.ipynb)
 * [Callbacks for Graph](./lect46_dash_callbacks_for_graph.ipynb)
 * [Multiple Inputs](./lect47_multiple_inputs.ipynb)
+* [Multiple Outputs](./lect48_multiple_outputs.ipynb)
