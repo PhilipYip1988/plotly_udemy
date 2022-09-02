@@ -94,6 +94,6 @@ These notebooks give a 404 error when displayed on Notebook Viewer as the Notebo
 * [html Components](./lect41_html_components.ipynb)
 * [core Components](./lect42_core_components.ipynb)
 * [Using help](./lect44_using_help_with_dash.ipynb) 
-* [Single Callbacks for Interactivity](./lect45_single_callbacks_for interactivity.ipynb) 
+* 
 * [Callbacks for Graph](./lect46_dash_callbacks_for_graph.ipynb)
 * [Multiple Inputs](./lect47_multiple_inputs.ipynb)
