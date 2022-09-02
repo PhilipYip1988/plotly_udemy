@@ -97,3 +97,5 @@ These notebooks should be opened and run in JupyterLab:
 * [Multiple Inputs](./lect47_multiple_inputs.ipynb)
 * [Multiple Outputs](./lect48_multiple_outputs.ipynb)
 * [Interactive Components Exercise](./lect49_interactive_components_exercise.ipynb)
+* [Controlling Callbacks with State](./lect51_controlling_callbacks_with_state.ipynb)
+* [Hover Over Data](./lect52_hover_over_data.ipynb)
