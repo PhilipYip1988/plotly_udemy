@@ -63,35 +63,37 @@ jupyter-lab
 
 # Plotly Graph Objects
 
-These links display the notebooks on notebook viewer. The [Notebook Viewer](https://github.com/PhilipYip1988/plotly_udemy/blob/main/readme.md) has wider compatability than GitHub natively when it comes to viewing commonly used objects in JupyterLab such as plotly graph objects:
+These links display the notebooks on notebook viewer. The [Notebook Viewer](https://github.com/PhilipYip1988/plotly_udemy/blob/main/readme.md) has wider compatibility than GitHub natively when it comes to viewing commonly used objects in JupyterLab such as plotly graph objects:
 
 * [Scatter Plots](./lect11_scatter_plots.ipynb)
-* [Line Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect12_line_charts.ipynb)
-* [Line Charts 2](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect13_line_charts_2.ipynb)
-* [Line Charts Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect14_line_charts_exercise.ipynb)
-* [Bar Charts](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect16_bar_charts.ipynb)
-* [Bar Charts Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect17_bar_charts_exercise.ipynb)
-* [Bubble Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect18_bubble_plots.ipynb)
-* [Bubble Plots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect20_bubble_plots_exercise.ipynb)
-* [Box Plots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect22_box_plots.ipynb)
-* [Box Plots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect23_box_plots_exercise.ipynb)
-* [Histograms](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect25_histograms.ipynb)
-* [Histograms Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect26_histograms_exercise.ipynb)
-* [Distplots](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect28_distplots.ipynb)
-* [Distplots Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect29_distplots_exercise.ipynb)
-* [Heatmaps](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect31_heatmaps.ipynb)
-* [Heatmaps Exercise](https://nbviewer.org/github/PhilipYip1988/plotly_udemy/blob/main/lect32_heatmaps_exercise.ipynb)
+* [Line Charts](./lect12_line_charts.ipynb)
+* [Line Charts 2](./lect13_line_charts_2.ipynb)
+* [Line Charts Exercise](.lect14_line_charts_exercise.ipynb)
+* [Bar Charts](./lect16_bar_charts.ipynb)
+* [Bar Charts Exercise](./lect17_bar_charts_exercise.ipynb)
+* [Bubble Plots](./lect18_bubble_plots.ipynb)
+* [Bubble Plots Exercise](./lect20_bubble_plots_exercise.ipynb)
+* [Box Plots](./lect22_box_plots.ipynb)
+* [Box Plots Exercise](./lect23_box_plots_exercise.ipynb)
+* [Histograms](./lect25_histograms.ipynb)
+* [Histograms Exercise](./lect26_histograms_exercise.ipynb)
+* [Distplots](./lect28_distplots.ipynb)
+* [Distplots Exercise](./lect29_distplots_exercise.ipynb)
+* [Heatmaps](h./lect31_heatmaps.ipynb)
+* [Heatmaps Exercise](./lect32_heatmaps_exercise.ipynb)
 
 # Dash
 
 These notebooks give a 404 error when displayed on Notebook Viewer as the Notebook Viewer is not able to view the dash server. Instead they should be opened in JupyterLab:
 
-* dash Layouts 1a
-* dash Layouts 1b
-* dash Layouts 2
-* Converting Simple plotly to dash
-* Create a Simple Dashboard Exercise
-* html Components
-* core Components
-* Using help
-* Single Callbacks for Interactivity
+* [dash Layouts 1a](./lect35_dash_layouts_1a.ipynb)
+* [dash Layouts 1b](./lect35_dash_layouts_1b.ipynb)
+* [dash Layouts 2](./lect36_dash_layouts_2.ipynb)
+* [Converting Simple plotly to dash](./lect37_converting_simple_plotly_to_dash.ipynb)
+* [Simple Dashboard Exercise](./lect38_simple_dashboard_exercise.ipynb)
+* [html Components](./lect41_html_components.ipynb)
+* [core Components](./lect42_core_components.ipynb)
+* [Using help](./lect44_using_help_with_dash.ipynb)
+* [Single Callbacks for Interactivity](./lect45_single_callbacks_for interactivity.ipynb)
+* [Callbacks for Graph](./lect46_dash_callbacks_for_graph.ipynb)
+* [Multiple Inputs](./lect47_multiple_inputs.ipynb)
