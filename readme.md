@@ -47,6 +47,7 @@ conda install -c conda-forge jupyterlab
 conda install -c conda-forge cython seaborn scikit-learn sympy openpyxl xlrd xlsxwriter lxml sqlalchemy
 conda install -c conda-forge nodejs ipywidgets 
 conda install -c conda-forge plotly dash jupyter-dash
+conda install -c conda-forge plotly dash pandas-datareader
 conda install -c conda-forge jupyterlab-variableinspector
 ```
 
