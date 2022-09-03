@@ -1,6 +1,6 @@
 # Interactive Python Dashboards with plotly and dash
 
-This repository is a set of JupyterLab notebooks, I am making while following along with Jose Portilla's Udemy course Interactive Python Dashboards with plotly and dash. The course was made in 2018 and is a bit outdated as alot of developments have been made in the plotly and dash libraries since that time. I am taking the course in 2022 and had to slightly tweak the code to get it to work in a JupyterLab with the latest version of plotly and dash. Joses explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However the course was made before the release of plotly express and therefore does not cover plotly express. That being said, plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understanding the fundamentals and syntax of plotly graph objects.
+This repository is a set of JupyterLab notebooks, I am making while following along with Jose Portilla's Udemy course Interactive Python Dashboards with plotly and dash. The course was made in 2018 and is a bit outdated as alot of developments have been made in the plotly and dash libraries since that time. I am taking the course in 2022 (85 % in) and had to slightly tweak the code to get it to work in a JupyterLab with the latest version of plotly and dash. Jose's explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However the course was made before the release of plotly express and therefore does not cover plotly express. That being said, plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understanding the fundamentals and syntax of plotly graph objects.
 
 Jose Portilla's Udemy course:
 [Interactive Python Dashboards with plotly and dash Udemy](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/).
@@ -10,19 +10,19 @@ Jose Portilla's GitHub files:
 
 # Perquisites
 
-Before beginning the course, ensure you are comfortable with the Python programming language especially concepts such as for loops, list comprehension and dictionary comprehension), as well as the data science libraries numpy and pandas. Jose has a very small intro section covering this in the plotly and dash course but a beginner will struggle without a deeper understanding.
+Before beginning the course, ensure you are comfortable with the Python programming language especially concepts such as for loops, list comprehension and dictionary comprehension), as well as the data science libraries numpy and pandas. Jose has a very small intro section covering this in the plotly and dash course but a beginner will likely struggle without a deeper understanding.
 
 Jose has a begineer Python course and an intermediate datascience course which covers these libraries.
 
-Ensure you take the **updated 2022 course**:
+Ensure you take the **updated 2022 courses**:
 
 [Python Bootcamp 2022 Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
 
-[Python for Machine Learning Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
+[Python for Machine Learning Data Science Masterclass 2022 Udemy](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 
 And not the **outdated 2018 course**:
 
-[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+[Python for Data Science and Machine Learning Bootcamp 2018 Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 
 # Setting up a conda env
 
