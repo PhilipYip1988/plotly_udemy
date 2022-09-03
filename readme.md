@@ -100,3 +100,4 @@ These notebooks should be opened and run in JupyterLab:
 * [Controlling Callbacks with State](./lect51_controlling_callbacks_with_state.ipynb)
 * [Hover Over Data](./lect52_hover_over_data.ipynb)
 * [Click Data](./lect53_click_data.ipynb)
+* [Selection Data](./lect54_selection_data.ipynb)
