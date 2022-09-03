@@ -50,7 +50,7 @@ conda install -c conda-forge plotly dash jupyter-dash
 conda install -c conda-forge jupyterlab-variableinspector
 ```
 
-Launch JupyterLab from the Anaconda PowerShell Prompt or Windows Terminal using:
+Launch JupyterLab from the Anaconda PowerShell Prompt or the Linux Terminal using:
 
 ```
 conda activate jupyterlab-cf
