@@ -104,3 +104,4 @@ These notebooks should be opened and run in JupyterLab:
 * [Selection Data](./lect54_selection_data.ipynb)
 * [Updating Graphs on Interactions](./lect55_updating_graphs_on_interactions.ipynb)
 * [Milestone Project](./lect58_milestone_project.ipynb)
+* [Layout Updating](./lect59_layout_updating.ipynb)
