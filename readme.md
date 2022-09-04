@@ -1,6 +1,6 @@
 # Interactive Python Dashboards with plotly and dash
 
-This repository is a set of JupyterLab notebooks, I am making while following along with Jose Portilla's Udemy course Interactive Python Dashboards with plotly and dash. The course was made in 2018 and is a bit outdated as alot of developments have been made in the plotly and dash libraries since that time. I am taking the course in 2022 (85 % in) and had to slightly tweak the code to get it to work in a JupyterLab with the latest version of plotly and dash. Jose's explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However the course was made before the release of plotly express and therefore does not cover plotly express. That being said, plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understanding the fundamentals and syntax of plotly graph objects.
+This repository is a set of JupyterLab notebooks, I am making while following along with Jose Portilla's Udemy course Interactive Python Dashboards with plotly and dash. The course was made in 2018 and is a bit outdated as alot of developments have been made in the plotly and dash libraries since that time. I am taking the course in 2022 (90 % in) and had to slightly tweak the code to get it to work in a JupyterLab with the latest version of plotly and dash. Jose's explanation of the plotly syntax, covers the fundamentals behind graph objects particularly well. Currently use of plotly express is recommended over use of plotly graph objects for most commonly used plot types. However the course was made before the release of plotly express and therefore does not cover plotly express. That being said, plotly graph objects is still required for advanced plotting and so the course is still a useful resource when it comes to understanding the fundamentals and syntax of plotly graph objects.
 
 Jose Portilla's Udemy course:
 [Interactive Python Dashboards with plotly and dash Udemy](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/).
@@ -103,3 +103,4 @@ These notebooks should be opened and run in JupyterLab:
 * [Click Data](./lect53_click_data.ipynb)
 * [Selection Data](./lect54_selection_data.ipynb)
 * [Updating Graphs on Interactions](./lect55_updating_graphs_on_interactions.ipynb)
+* [Milestone Project](./lect58_milestone_project.ipynb)
