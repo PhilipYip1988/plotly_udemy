@@ -106,3 +106,4 @@ These notebooks should be opened and run in JupyterLab:
 * [Milestone Project](./lect58_milestone_project.ipynb)
 * [Layout Updating](./lect65_layout_updating.ipynb)
 * [Live Update Example](./lect66_simple_live_update_example.ipynb)
+* [Authentication](./lect67_app_authorisation.ipynb) Incompatible with Jupyter Dash
