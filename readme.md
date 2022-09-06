@@ -29,32 +29,34 @@ And not the **outdated 2018 course**:
 This folder can be downloaded as a zip file. The extracted contents can be opened and launched in JupyterLab.
 You will however need a compatible conda environment.
 
-Install Miniconda or Anaconda.
+Install Miniforge
 
-Launch the Anaconda Powershell Prompt (Windows) or the Terminal (Linux).
+Miniforge is essentially an improved version of Miniconda that uses the mamba package manager, the next generation of the conda package manager and is optimised to use the conda-forge community channel opposed to the conda channel. This alleviates many of the installation issues experienced with Anaconda/Miniconda due to packages in the conda channel usually being out of date.
 
-Create a new conda environment and active it using:
+Launch the Miniforge Prompt (Windows) or the Terminal (Linux). 
+
+Create a new mamba environment and active it using:
 
 ```
-conda create -n jupyterlab-cf
-conda activate jupyterlab-cf
+mamba create -n jupyterlab-cf
+mamba activate jupyterlab-cf
 ```
 
 Install the following libraries using:
 
 ```
-conda install -c conda-forge jupyterlab
-conda install -c conda-forge cython seaborn scikit-learn sympy openpyxl xlrd xlsxwriter lxml sqlalchemy
-conda install -c conda-forge nodejs ipywidgets 
-conda install -c conda-forge plotly dash jupyter-dash dash-auth
-conda install -c conda-forge plotly pandas-datareader
-conda install -c conda-forge jupyterlab-variableinspector
+mamba install -c conda-forge jupyterlab
+mamba install -c conda-forge cython seaborn scikit-learn sympy openpyxl xlrd xlsxwriter lxml sqlalchemy
+mamba install -c conda-forge nodejs ipywidgets 
+mamba install -c conda-forge plotly dash jupyter-dash dash-auth
+mamba install -c conda-forge pandas-datareader
+mamba install -c conda-forge jupyterlab-variableinspector
 ```
 
 Launch JupyterLab from the Anaconda PowerShell Prompt or the Linux Terminal using:
 
 ```
-conda activate jupyterlab-cf
+mamba activate jupyterlab-cf
 jupyter-lab
 ```
 
